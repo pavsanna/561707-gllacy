@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Anna Pavshinskaya](https://up.htmlacademy.ru/htmlcss/20/user/561707).
-* Наставник: `Неизвестно`.
+* Наставник: [Danila Prokopenko](https://htmlacademy.ru/profile/id324297)`Неизвестно`.
 
 ---
 
